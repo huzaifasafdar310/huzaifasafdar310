@@ -21,7 +21,7 @@ const huzaifa = {
   location  : "Faisalabad, Pakistan 🇵🇰",
   education : "BS Computer Science @ UAF (Paras Campus)",
   stack     : ["React", "Next.js", "NestJS", "Node.js", "Python", "FastAPI"],
-  focus     : "Multi-tenant SaaS, AI-powered tools, LLM apps",
+  focus     : "AI-powered tools, LLM apps, mobile and web products",
   status    : "Open to Work 🟢",
 };
 ```
@@ -32,44 +32,30 @@ const huzaifa = {
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🏭 NexERP</h3>
-      <p>Multi-tenant SaaS ERP for the textile-to-retail industry. Turborepo monorepo with NestJS, Next.js and Prisma. Passed a full security and production readiness audit and is being scoped for its first pilot tenant.</p>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🛰️ JobRadar</h3>
       <p>Job scraping and AI career analysis platform. FastAPI, httpx and BeautifulSoup with an adapter pattern across 100+ job boards in Pakistan, the Gulf and global markets. AI resume analysis through Groq.</p>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" />
     </td>
-    <td width="33%" valign="top">
-      <h3>⚖️ Qanoon Saathi</h3>
-      <p>Legal chatbot that helps people in Pakistan understand the law. 3,859 statutes indexed into 118k+ embedded chunks, hybrid dense and FTS5 retrieval, English and Urdu (RTL) interface with a source trust panel for citations.</p>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🎙️ StudySync AI</h3>
       <p>Voice first task and deadline manager for students. Speech goes through Whisper and Llama 3.3 into tasks, with Redis and BullMQ reminders. Now adding a tools section with a cam scanner, document compressor and OCR.</p>
       <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📝 AutoFillPro</h3>
       <p>Chrome extension and dashboard that scans job application pages and fills them from your CV and profile. Handles dropdowns, repeater sections and Workday style forms, with a Gemini fallback for questions the CV can't answer.</p>
       <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square" />
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🧪 ChemExpiry</h3>
       <p>Mobile app that reminds a chemist before lab chemicals expire. Built with Expo and React Native, with configurable alerts that default to two months before the expiry date.</p>
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
